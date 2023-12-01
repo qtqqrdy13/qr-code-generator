@@ -1,0 +1,12 @@
+body{
+    background-color: #DED09F;
+}
+.container{
+   width: 400px;
+   padding: 25px 35px;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   background-color:white;
+   border-radius: 10px;
+}
